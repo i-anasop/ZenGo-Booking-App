@@ -93,17 +93,17 @@ ZenGo/
 
 ## 🎯 Use Cases
 
-- ✅ Transport booking demo application
-- ✅ Academic projects & practical exams
-- ✅ Java Swing learning resource
-- ✅ Foundation for advanced booking systems
+- 🔹  Transport booking demo application
+- 🔹  Academic projects & practical exams
+- 🔹  Java Swing learning resource
+- 🔹  Foundation for advanced booking systems
 
 ---
 
 ## 📌 Future Ideas
 
 - 🧾 Add ride history or cancel option
-- 🧑‍💼 Admin panel for managing bookings
+- 💼 Admin panel for managing bookings
 - ☁️ Switch to online database (e.g., MySQL)
 - 📱 Convert to mobile/Android version
 
