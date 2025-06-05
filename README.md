@@ -1,4 +1,4 @@
-# 🚀 ZenGo – Smart Transport Booking App (Java Swing)
+# 🚀 GoZen – Smart Transport Booking App (Java Swing)
 
 **ZenGo** is a professional, beginner-friendly, and fully functional **Java Swing desktop application** for booking **Tickets (Bus/Train)** or **Rides (Car/Bike)**.  
 It provides a complete transport booking flow with elegant design, splash screen animation, dynamic form handling, and booking confirmation – all backed by a connected database.
@@ -42,18 +42,18 @@ ZenGo/
 │   ├── MainMenu.java             # Shows Book Ticket / Book Ride options
 │   ├── BookingManager.java       # Routes user to the appropriate form
 │   ├── Ticket.java               # Custom confirmation display
+│   ├── resources/
+│       ├── logo.png                  # Logo for splash screen
+│       ├── ticket2.png               # Ticket-style image for confirmation
+│       ├── ride.png                  # Ride-style image for confirmation
+│       └── other images/             # Images used in Project
 │
 ├── database/
 │   └── users.accdb               # Microsoft Access DB for user credentials
 │
-├── resources/
-│   ├── logo.png                  # Logo for splash screen
-│   ├── ticket2.png               # Ticket-style image for confirmation
-│   ├── ride.png                  # Ride-style image for confirmation
-│   └── screenshots/              # Images for this README
-│
-├── lib/
-│   └── ucanaccess.jar            # JDBC driver for MS Access (required)
+├── map/
+│   └── UcanAccess            # JDBC driver file
+│       └── ucanaccess.jar            # JDBC driver for MS Access (required)
 │
 ├── README.md                     # This file!
 ```
