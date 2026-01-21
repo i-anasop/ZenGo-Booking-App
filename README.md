@@ -128,6 +128,5 @@ Please don’t forget to **credit** the original author and our dear co-develope
 ## 🔗 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/m-ianas/)
-- [X (formerly Twitter)](https://x.com/0xiM5_)
 
 
